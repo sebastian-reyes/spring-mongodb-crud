@@ -1,4 +1,4 @@
-package com.sreyes.app.api_rest_reactiva_mongodb.documents;
+package com.sreyes.app.api_rest_reactiva_mongodb.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
